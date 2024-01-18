@@ -1,5 +1,5 @@
 window.LOCAL_CONFIG = {
     urls:{
-        getProdDetails: '/mock/data.json'
+        getProdDetails: 'https://afiredog.github.io/product-demo/mock/data.json'
     }
 }
