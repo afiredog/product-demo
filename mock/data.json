@@ -1,0 +1,90 @@
+{
+  "title": "衣服",
+  "id": "11111",
+  "price": 10,
+  "brandName": "红蜻蜓",
+  "colorList": [
+    "灰色",
+    "红色",
+    "蓝色",
+    "黄色"
+  ],
+  "sizeList": [
+    "S",
+    "M",
+    "L"
+  ],
+  "img": [
+    "img1"
+  ],
+  "product": [
+    {
+      "color": "灰色",
+      "inventory": [
+        {
+          "size": "S",
+          "num": 1000
+        },
+        {
+          "size": "M",
+          "num": 1000
+        },
+        {
+          "size": "L",
+          "num": 1000
+        }
+      ]
+    },
+    {
+      "color": "红色",
+      "inventory": [
+        {
+          "size": "S",
+          "num": 1000
+        },
+        {
+          "size": "M",
+          "num": 1000
+        },
+        {
+          "size": "L",
+          "num": 1000
+        }
+      ]
+    },
+    {
+      "color": "蓝色",
+      "inventory": [
+        {
+          "size": "S",
+          "num": 1000
+        },
+        {
+          "size": "M",
+          "num": 1000
+        },
+        {
+          "size": "L",
+          "num": 1000
+        }
+      ]
+    },
+    {
+      "color": "黄色",
+      "inventory": [
+        {
+          "size": "S",
+          "num": 1000
+        },
+        {
+          "size": "M",
+          "num": 1000
+        },
+        {
+          "size": "L",
+          "num": 1000
+        }
+      ]
+    }
+  ]
+}
